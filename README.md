@@ -12,8 +12,6 @@ The infrastructure was developed using Cisco Packet Tracer.
 
 ## Network Topology
 
-F1 Network Topology
-
 The network consists of:
 
 - **Headquarters:** Engineering, Management, IT, and Server departments.
